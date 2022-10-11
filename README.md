@@ -1,0 +1,1 @@
+# JS ile yapılacaklar listesi
